@@ -70,7 +70,7 @@ export default function BirthdayPage() {
           <h2 className="text-pink-500 text-sm tracking-[0.4em] uppercase mb-10 text-center">The Message</h2>
           <p className="text-2xl sm:text-4xl font-light leading-relaxed text-center italic text-gray-100">
             «Если бы мне дали тысячу жизней,<br className="hidden sm:block" />
-            я бы тысячи раз выбрал подружиться и<span className="text-white font-medium">прожить эти жизни</span> с тобой.»
+            я бы тысячи раз выбрал подружиться и<span className="text-white font-medium"> прожить эти жизни</span>именно с тобой.»
           </p>
           <div className="mt-16 flex justify-center">
             <div className="w-20 h-[1px] bg-pink-500" />
