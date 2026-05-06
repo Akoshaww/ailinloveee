@@ -69,8 +69,8 @@ export default function BirthdayPage() {
         <div className="max-w-3xl px-8 py-20 border-x border-white/5 bg-gradient-to-b from-white/[0.02] to-transparent">
           <h2 className="text-pink-500 text-sm tracking-[0.4em] uppercase mb-10 text-center">The Message</h2>
           <p className="text-2xl sm:text-4xl font-light leading-relaxed text-center italic text-gray-100">
-            «Ты — как редкая звезда, которая делает это небо ярче. <br className="hidden sm:block" />
-            Пусть твоя жизнь будет такой же <span className="text-white font-medium">безумно красивой</span>, как этот момент.»
+            «Если бы мне дали тысячу жизней,<br className="hidden sm:block" />
+            я бы тысячи раз выбрал подружиться и<span className="text-white font-medium">прожить эти жизни</span> с тобой.»
           </p>
           <div className="mt-16 flex justify-center">
             <div className="w-20 h-[1px] bg-pink-500" />
